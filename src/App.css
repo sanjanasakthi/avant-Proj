@@ -1,0 +1,192 @@
+table, th, td,tr{
+  border: 1px solid black;
+  
+}
+
+.setRes{
+  overflow-x: auto;
+  width: 100%;
+}
+
+table{
+  box-shadow: 0px 15px 15px rgb(233, 223, 223);
+  /* width: 100%; */
+}
+
+.setTRColor{
+  background-color: #17A2B8;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.setBG{
+  background-color: #17A2B8;
+}
+
+.setColor{
+  color: blue;
+}
+
+
+
+#form1{
+  border-radius: 20px;
+  /* margin-left: 1% !important; */
+}
+
+input:hover{
+  background-color: azure;
+}
+
+.sethov:hover{
+  background-color: rgb(196, 191, 236);
+}
+
+label{
+  background-color: gainsboro;
+}
+
+.setHW{
+  width: 100% !important;
+}
+
+label{
+  border-radius: 10px;
+}
+
+select{
+  border-radius: 5px;
+}
+
+.setHov:hover{
+ color: cornflowerblue;
+}
+
+button:hover{
+  background-color: rgb(183, 204, 242);
+}
+
+.HovSet:hover{
+  color:blue;
+}
+
+.text {
+  color: honeydew;
+  font-size: 20px;
+  position: absolute;
+  top: 10%;
+  left: 45%;
+  text-decoration: none;
+}
+
+.container:hover .overlay {
+  bottom: 0;
+  height: 50%;
+}
+
+.container {
+  position: relative;
+}
+/* .setRes{
+  overflow-x: auto;
+  width: 100%;
+} */
+.image {
+  display: block;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  right: 0;
+  background-color: #9eddf3;
+  height:0;
+  transition: .5s ease;
+}
+
+
+.setMargin{
+  margin-top: 60%;
+}
+
+
+.setBtnColor{
+  background-color: #007BFF;
+  border-radius: 5px;
+  color: azure;
+}
+
+.SetHov:hover{
+  background-color: #9eddf3;
+}
+
+body{
+  background-color: #E9EBEC;
+}
+
+.setBgHome2{
+  background-color: white;
+}
+
+.setCardW{
+  /* width: 30rem;
+  height: 30rem; */
+  border: 2px solid rgb(248, 245, 245);
+  background-color: white;
+  justify-content: center;
+}
+
+.setbtnColor{
+  color: black;
+}
+
+.setbtnBg{
+  background-color:#64B5F6;
+  border-radius: 10px;
+  width: 10rem;
+  height: 3rem;
+  border: 2px solid white;
+}
+
+.setShadow{
+  box-shadow: 1px 1px 2px 1px; 
+}
+
+
+.setBgLogin{
+
+  border-radius: 20px;
+  /* background-color:  #98b1e7; */
+  background: linear-gradient(to top ,#2F43A1,#364CB8 , #5eb9eb);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+}
+
+
+.setBTNbg{
+  background-color: #fafcfc;
+  box-shadow: rgba(255, 255, 255, 0.35) 0px 5px 15px;;
+  width: 10rem;
+  height: 3rem;
+}
+
+.seth3bg{
+  background-color: white;
+  border-radius: 20px;
+}
+
+input{
+  border-style: none;
+}
+
+.SetIcolor{
+  color:#212F71 ;
+}
+
+h3{
+  color:#212F71 ;
+}
+
+.SetIHOVcolor:hover{
+background-color: #5eb9eb;
+}
